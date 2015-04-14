@@ -2,18 +2,20 @@
 
 Contributors: Antoine Derrien
 Tags: contact form, cf7, contact form 7
-Stable tag: trunk
+Stable tag: stable
 Requires at least: 3.8.5
 Tested up to: 4.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin adds the Sweet Alert script (http://tristanedwards.me/sweetalert) into Contact Form 7 wordpress plugin submission process.
+This plugin adds the Sweet Alert script into Contact Form 7 wordpress plugin submission process.
 
 == Description ==
 
-First release of this add-on plugin.
+This plugin adds the [Sweet Alert script](http://tristanedwards.me/sweetalert) into [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) wordpress plugin submission process.
+
 Just activate it to replace CF7 default submission output by a Sweet Alert pop up.
+The add-on will display the Contact Form 7 messages in the pop up.
 
 == How does it work? ==
 
