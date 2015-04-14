@@ -2,7 +2,7 @@
 
 Contributors: Antoine Derrien
 Tags: contact form, cf7, contact form 7
-Stable tag: stable
+Stable tag: trunk
 Requires at least: 3.8.5
 Tested up to: 4.1.1
 License: GPLv2 or later
@@ -30,9 +30,9 @@ Or, if you want to install manually, follow these steps:
 1. Upload the entire 'sweet-alert-for-cf7' folder to the '/wp-content/plugins/' directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress admin.
 
-* There is no "control panel" for this plugin. You customize pop up messages within the original CF7 fields
+* There is no "control panel" for this plugin. You customize pop up messages within the original CF7 messages fields
 
 == Changelog ==
 
 * 0.1
-- First release.
+First release.
