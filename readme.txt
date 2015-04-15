@@ -14,8 +14,12 @@ This plugin adds the Sweet Alert script into Contact Form 7 wordpress plugin sub
 
 This plugin adds the [Sweet Alert script](http://tristanedwards.me/sweetalert) into [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) wordpress plugin submission process.
 
+> This plugin requires the Contact Form 7 plugin to work.
+
 Just activate it to replace CF7 default submission output by a Sweet Alert pop up.
 The add-on will display the Contact Form 7 messages in the pop up.
+
+You can see the demo [here](http://clublive.fr/demo/sweet-alert-add-on-for-cf7/)
 
 == How does it work? ==
 
