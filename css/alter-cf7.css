@@ -1,0 +1,10 @@
+/*
+Hide default response output from CF7
+*/
+
+div.wpcf7 div.wpcf7-response-output {
+display:none;
+border:none;
+opacity:0;
+font-size:0;
+}
