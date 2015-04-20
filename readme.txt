@@ -2,7 +2,7 @@
 
 Contributors: Antoine Derrien
 Tags: contact form, cf7, contact form 7
-Stable tag: trunk
+Stable tag: 0.2
 Requires at least: 3.8.5
 Tested up to: 4.1.1
 License: GPLv2 or later
