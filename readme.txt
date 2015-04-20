@@ -40,7 +40,7 @@ Or, if you want to install manually, follow these steps:
 
 == Changelog ==
 
-*0.2
+* 0.2
 Add options : Timer and title for success and error alerts.
 
 * 0.1
