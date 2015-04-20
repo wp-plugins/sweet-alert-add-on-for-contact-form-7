@@ -1,0 +1,22 @@
+/* Stylesheet for the admin page */
+
+.swal-cf7__container {
+position:relative;
+}
+.swal-cf7__container form {
+	width:70%;
+	max-width:450px;
+	float:left;
+}
+.swal-cf7__container sidebar {
+	width:20%;
+	float:right;
+	margin-right:5%;
+	text-align:right;
+}
+.swal-cf7__container header {
+	position:absolute;
+	top:20px;
+	right:5%;
+	text-align:right;
+}
