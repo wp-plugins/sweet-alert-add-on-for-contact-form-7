@@ -8,7 +8,7 @@ Tested up to: 4.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin adds the Sweet Alert script into Contact Form 7 wordpress plugin submission process.
+Add Sweet Alert script into Contact Form 7 submission process.
 
 == Description ==
 
@@ -19,7 +19,9 @@ This plugin adds the [Sweet Alert script](http://tristanedwards.me/sweetalert) i
 Just activate it to replace CF7 default submission output by a Sweet Alert pop up.
 The add-on will display the Contact Form 7 messages in the pop up.
 
-You can see the demo [here](http://clublive.fr/demo/sweet-alert-add-on-for-cf7/)
+If you want, you can set a custom duration and a custom title for the alerts.
+
+> You can see the demo [here](http://clublive.fr/demo/sweet-alert-add-on-for-cf7/)
 
 == How does it work? ==
 
@@ -34,9 +36,12 @@ Or, if you want to install manually, follow these steps:
 1. Upload the entire 'sweet-alert-for-cf7' folder to the '/wp-content/plugins/' directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress admin.
 
-* There is no "control panel" for this plugin. You customize pop up messages within the original CF7 messages fields
+* You can set a custom duration and a custom title for the alerts in "SwAl CF7" panel in the admin.
 
 == Changelog ==
+
+*0.2
+Add options : Timer and title for success and error alerts.
 
 * 0.1
 First release.
